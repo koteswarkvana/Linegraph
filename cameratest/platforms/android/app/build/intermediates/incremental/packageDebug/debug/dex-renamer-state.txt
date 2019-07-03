@@ -1,0 +1,4 @@
+#Tue Mar 26 14:46:38 IST 2019
+base.0=/Users/kvanaimac/Developer/sample_android_projects/cameratest/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
